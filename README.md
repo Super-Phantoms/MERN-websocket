@@ -35,7 +35,7 @@ Cart<br/>
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com/bluesky-dragon/OnlineShop.git
+$ git clone git@github.com/Super-Phantoms/MERN-websocket.git
 $ cd shopify
 ```
 
